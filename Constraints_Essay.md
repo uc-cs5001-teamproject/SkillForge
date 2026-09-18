@@ -1,5 +1,16 @@
 # Team SkillForge - Project Constraints Essay
 
+## Team Members
+Noah Schumacher
+
+Ryan Broyles
+
+Manjinder Kaur
+
+Minh Nguyen
+
+Akshat Chaturvedi 
+
 ## Economic 
 For project SkillForge, major economic constraints include limited funds for compute resources such as GPU and CPU time, as well as shared data storage and streaming.  Videos used for training will be held to subsections of under 25GB storage to be shared through student OneDrive accounts.  Neural networks trained and inferenced will be limited to 24GB of VRAM max size, allowing for GPU costs to average $0.17/hour max (via vast.ai median price for RTX3090 w/ 24GB VRAM). Team members will make use of free monthly credits through modal AI to gain up to $150 dollars of compute per-month.
 
