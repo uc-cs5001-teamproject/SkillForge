@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="4OqNSdWcKrpLxO8nCA3B">
+    <mxGraphModel dx="1030" dy="571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sezrrGviadGzuImVqyAp-5" edge="1" parent="1" source="sezrrGviadGzuImVqyAp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=light-dark(#001DBC,#0000CC);" target="sezrrGviadGzuImVqyAp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;gradientColor=default;gradientDirection=north;" value="Video Demonstration" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-6" edge="1" parent="1" source="sezrrGviadGzuImVqyAp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=light-dark(#001DBC,#3333FF);" target="sezrrGviadGzuImVqyAp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;gradientDirection=north;gradientColor=default;" value="VGGT 3D Gaussian Splatting" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-7" edge="1" parent="1" source="sezrrGviadGzuImVqyAp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=light-dark(#001DBC,#0000FF);" target="sezrrGviadGzuImVqyAp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;gradientColor=default;gradientDirection=north;" value="Segmentation Model" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;gradientDirection=north;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;gradientColor=default;" value="Mesh Processing" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="Raw Video Data" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="Point Cloud" vertex="1">
+          <mxGeometry height="30" width="60" x="497" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="Point Cloud" vertex="1">
+          <mxGeometry height="30" width="60" x="660" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;gradientColor=default;gradientDirection=north;" value="Robotic Simulation" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;gradientDirection=north;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;gradientColor=default;" value="Final Model" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-15" edge="1" parent="1" source="sezrrGviadGzuImVqyAp-11" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=light-dark(#001DBC,#0000FF);" target="sezrrGviadGzuImVqyAp-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-23" edge="1" parent="1" source="sezrrGviadGzuImVqyAp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="sezrrGviadGzuImVqyAp-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ60ERt_g2tqWefcHeaU-12" edge="1" parent="1" source="sezrrGviadGzuImVqyAp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sezrrGviadGzuImVqyAp-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="Sim Frames" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="3D Reconstruction" vertex="1">
+          <mxGeometry height="30" width="49" x="161" y="338" as="geometry" />
+        </mxCell>
+        <mxCell id="sezrrGviadGzuImVqyAp-25" edge="1" parent="1" source="sezrrGviadGzuImVqyAp-4" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=light-dark(#001DBC,#0000FF);edgeStyle=orthogonalEdgeStyle;" target="sezrrGviadGzuImVqyAp-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="230" />
+              <mxPoint x="840" y="154.33" />
+              <mxPoint x="210" y="154.33" />
+              <mxPoint x="210" y="320" />
+            </Array>
+            <mxPoint x="351" y="314" as="sourcePoint" />
+            <mxPoint x="391" y="314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cJ60ERt_g2tqWefcHeaU-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;gradientColor=default;gradientDirection=north;" value="&lt;h1&gt;SkillForge Data Flow Diagram&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="103" width="442" x="282" y="41" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ60ERt_g2tqWefcHeaU-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="444" y="278" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ60ERt_g2tqWefcHeaU-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="Provides a simple pipeline that allows for a straightforward training process of the model" vertex="1">
+          <mxGeometry height="30" width="265" x="370.5" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ60ERt_g2tqWefcHeaU-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;gradientDirection=north;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;gradientColor=light-dark(#000000,#00CC00);" value="" vertex="1">
+          <mxGeometry height="189" width="255.5" x="385.5" y="387" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ60ERt_g2tqWefcHeaU-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;gradientColor=default;gradientDirection=north;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="395.5" y="419.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ60ERt_g2tqWefcHeaU-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=22;fontStyle=1" value="Legend" vertex="1">
+          <mxGeometry height="30" width="60" x="483.25" y="387" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ60ERt_g2tqWefcHeaU-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontStyle=1" value="Component" vertex="1">
+          <mxGeometry height="30" width="60" x="529.5" y="434.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ60ERt_g2tqWefcHeaU-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=light-dark(#001DBC,#0000FF);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="439.5" y="530" as="sourcePoint" />
+            <mxPoint x="479.5" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cJ60ERt_g2tqWefcHeaU-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontStyle=1" value="Data Flow Segment" vertex="1">
+          <mxGeometry height="30" width="60" x="529.5" y="516" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
