@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="d_WnYlcch8f4P8KEiyiE">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IW6P2ictshXVHz9YWyXn-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientDirection=north;" value="" vertex="1">
+          <mxGeometry height="90" width="420" x="230" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="IW6P2ictshXVHz9YWyXn-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 29px;&quot;&gt;SkillForge&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="410" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="IW6P2ictshXVHz9YWyXn-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Goal: A web interface for developing, configuring, and tracking training robot skills from videos of human demonstrations&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="420" x="230" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
