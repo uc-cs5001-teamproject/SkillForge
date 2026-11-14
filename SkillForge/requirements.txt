@@ -1,0 +1,5 @@
+--extra-index-url https://d36m13axqqhiit.cloudfront.net/simple
+--extra-index-url https://download.pytorch.org/whl/cu132
+
+fvdb-core==0.6.0+pt213.cu132
+torch==2.13.0

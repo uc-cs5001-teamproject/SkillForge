@@ -1,0 +1,10 @@
+cmake .. -GNinja \
+    -DCMAKE_CUDA_ARCHITECTURES=native \
+    -DONNX_ENABLED=ON \
+    -DBLA_VENDOR=Intel10_64lp
+
+
+ENSURE:
+- Latest NViDIA driver
+- CUDA Toolkit version == 13.2
+- Export pip-env libcuda.so.9 file to PATH
